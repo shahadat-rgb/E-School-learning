@@ -1,0 +1,262 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #b9d1d8;
+}
+.img-width-height{
+    width:150px;
+    height: 60px;
+
+}
+.btn{
+    background-color:#21B583;
+    border-radius: 15px;
+    color: white; 
+}
+header{
+    padding-bottom: 10px;
+    margin-bottom: 5%;
+    background-color:#afd4a33f;
+ 
+}
+header img{
+    width: 100%;
+}
+.color{
+    color:#21B583;
+}
+.btn-now{
+    border: none;
+    background-color:#21B583;
+    border-radius: 15px;
+    color: white;
+    padding: 5px 25px;
+    cursor: pointer;
+}
+.bottom {
+   width: 100%;
+   height: 0 auto;
+
+}
+.gap{
+    margin-bottom:150px;
+}
+.design{
+    width: 80px;
+    margin: 0 auto;
+    margin-top:50px;
+    
+}
+.design-half{
+    width: 65px;
+    margin: 0 auto;
+    margin-top:50px;
+}
+.text-align{
+    text-align: center;
+}
+.card{
+    margin-bottom: 25px;
+    border: none;
+    box-shadow: 1px 0px 10px grey;
+    background-color: #e9f1ebad;
+    border-radius: 10px;
+} 
+.card-item{
+    background-color: white;
+}
+.shadow{
+    background-color:white;
+}
+.item{
+    margin-bottom: 50px;
+}
+.decorate{
+    background-color: white;
+    border-radius: 10px;
+    border:none;
+    box-shadow: 5px 5px 20px gainsboro;
+
+}
+img.card-img-top {
+    padding: 15px;
+}
+
+#text-center{
+    text-align: center;
+    margin-bottom:50px;
+}
+.align{
+    margin-bottom:70px;
+}
+.calender img{
+    margin-top: 5px;
+    margin: 0;
+   
+}
+.card-icon img{
+  width: 25px;
+  height: 25px;
+  margin-top: 30px;
+
+}
+.card-icon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.icon-left p{
+    padding-right: 10px;
+    margin-bottom: 0;
+    margin-top: 35px;
+    font-size: 12px;
+}
+.align-center{
+    text-align: center;
+}
+.img-fluid {
+  width: 180px;
+  margin-left: 60px;
+
+}
+footer{
+    background: linear-gradient(#00000075,#00000075),linear-gradient(#00000075,#00000075),url('images/school-girl.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    color: white;
+    padding:30px 30px 0px 30px;
+}
+.foter{
+    text-align: center;
+    font-size: 12px;
+    margin-top:0px;
+}
+.half-margin{
+    margin-top: 50px;
+    text-align: justify;
+}
+.icon i{
+  width: 40px;
+  height: 40px;
+  background-color:gray;
+  color: white;
+  padding: 12px 12px ;
+  border-radius: 80px;
+  margin-top: 15px;
+  font-size:18px ;
+  margin: 0px 0px 20px 0px;
+}
+.icon i:hover{
+    background-color: white;
+    color:gray;
+    transition: 1s;
+
+}
+.text-primary {
+    color: #007bff!important;
+    margin-left: 15px;
+}
+.map{
+  margin-left: 15px;  
+  color:#f3f3f3;
+}
+.online-course{
+    margin-bottom: 30px;
+    margin-top: 20px;
+    font-size: 20px;
+
+}
+.drawing{
+    color:lightgray;
+    text-align: justify;
+}
+.icon2 i{
+    width: 40px;
+    height: 40px;
+    background-color:gray;
+    color: white;
+    padding: 12px 12px ;
+    border-radius:5px;
+    margin-top: 15px;
+    font-size: 18px;
+} 
+
+.icon2 i:hover{
+    background-color: white;
+    color:gray;
+    transition: 1s;
+}
+.form-aria{
+    margin-bottom: 50px;
+    margin-top: 20px;
+    background:linear-gradient(lightskyblue,rgba(216, 222, 223, 0.883));
+    box-shadow: 2px 2px 10px gray;
+    border-radius:10px;
+
+}
+.form-padding{
+    padding: 20px;
+}
+ .input-aria .input{
+    margin-top:50px;
+    border: 0;
+    outline: none;
+    background:transparent;
+    border-bottom: 2px solid white;
+    width:  100%;
+}
+::-webkit-input-placeholder{
+    color:white
+}
+.young-man{
+    width: 100%;
+}
+.submit-btn{
+    background-color:lightskyblue;
+    padding: 10px 45px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 80px;
+}
+.account{
+    margin-top: 80px;
+}
+.login-with{
+   padding-right: 20px;
+}
+.checkbox{
+    margin-left:10px;
+}
+.facebook-icon i{
+   width:  40px;
+   height: 40px;
+   background-color:#6981b9;
+   color: white;
+   padding: 12px 12px ;
+   border-radius:8px;
+   font-size: 18px;
+}
+.twitter-icon i{
+    width:  40px;
+    height: 40px;
+    background-color:#17afdc;
+    color: white;
+    padding: 12px 12px ;
+    border-radius:8px;
+    font-size: 18px;
+}
+.google-icon i{
+    width:  40px;
+    height: 40px;
+    background-color:#e84b9b;
+    color: white;
+    padding: 12px 12px ;
+    border-radius:8px;
+    font-size: 18px;
+}
+
+.Copyright{
+    font-size: 12px;
+    margin-top: 40px;
+}
